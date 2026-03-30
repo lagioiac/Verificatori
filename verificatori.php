@@ -120,8 +120,11 @@
                             
                             <div class="button-container" style="margin-bottom: 10px;">
                                                                 
-                                <!-- Tasto REPORT -->
+                                <!-- Tasto REPORT storico (lasciato invariato per confronto) -->
                                 <a href="report_verificatori.php" class="button"> REPORT </a>
+                                
+                                <!-- Nuovo report con metriche separate persone/competenze -->
+                                <a href="report_verificatori_nuovo.php" class="button"> REPORT NUOVO </a>
                                 
                                 <!-- Tasto "Aggiungi o modifica Verificatore -->
                                 <a href="aggiungi_verificatore.php" class="button add"> Aggiungi o Modifica Verificatore </a>
